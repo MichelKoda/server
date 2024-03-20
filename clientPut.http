@@ -1,0 +1,10 @@
+PUT http://localhost:3000/users/b809a5a4-27f3-4a3c-b345-65d96c290a5b HTTP/1.1
+header name: header value
+
+content-type: application/json
+
+
+{
+"name": "maconhaVerde",
+"age": "421"
+}
